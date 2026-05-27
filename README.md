@@ -17,7 +17,7 @@ S-UI for Alpine Linux
 在你的 Alpine 终端执行以下一键命令：
 
 
-apk add --no-cache bash && wget -N --no-check-certificate https://raw.githubusercontent.com/wangkewdg2/S-UI-for-alpine/main/install.sh && chmod +x install.sh && bash install.sh
+apk add --no-cache bash && wget --no-check-certificate https://raw.githubusercontent.com/samoyed24/S-UI-for-alpine/main/install.sh && chmod +x install.sh && bash install.sh
 
 📖 使用说明
 安装完成后，在终端输入以下命令即可进入循环管理菜单：s-ui
